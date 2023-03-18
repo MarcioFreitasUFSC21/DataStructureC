@@ -1,2 +1,2 @@
 # My C initial softwares 
-repository to show my C DataStructure files
+repository to show my C softwares files
